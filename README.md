@@ -22,6 +22,7 @@ Sales dashboard: A sales dashboard was created using Python's Matplotlib library
 I wrote an article on Medium that provides more detailed information on how I turned the data analysis results into a cool sales dashboard in Python, which you can check out [here](https://app.daily.dev/posts/eku7U2Pm0). This article was picked and published in Daily.dev, which is a great platform for developers to share their work and get feedback from a community of like-minded individuals. In the article, I explain how I designed the dashboard, how I integrated it with the sales data EDA. If you're interested in learning how to create similar dashboards for your own data analysis projects, this article is definitely worth checking out
 
 Additionally, for more detailed information on the The Data wrangling process which involved assessing and cleaning the data, exploratory data analysis and visualization using matplotlib with more in-depth information on the code used for the project check out [here](https://github.com/azeezat123/Hafsat-Website-Sales-Analysis/blob/94a3d8b47f5e4804f52af07b7edf21dd5451af1f/Hafsat-Website-Sales-Analysis%20(1).ipynb)
+
 ![Dashboard image, added in the Markdown.](Hafsat-Website-Sales-Analysis Dashboard.png)
  
  
