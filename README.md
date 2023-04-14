@@ -23,7 +23,5 @@ I wrote an article on Medium that provides more detailed information on how I tu
 
 Additionally, for more detailed information on the The Data wrangling process which involved assessing and cleaning the data, exploratory data analysis and visualization using matplotlib with more in-depth information on the code used for the project check out [here](https://github.com/azeezat123/Hafsat-Website-Sales-Analysis/blob/94a3d8b47f5e4804f52af07b7edf21dd5451af1f/Hafsat-Website-Sales-Analysis%20(1).ipynb)
 
-![Screenshot of dashboard image, added in the Markdown.](Hafsat-Website-Sales-Analysis Dashboard.png) 
- 
  
 
