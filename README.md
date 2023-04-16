@@ -6,7 +6,7 @@ In January 2022, Hafsat Signature Ventures launched its ecommerce website hafsat
 ***
 
 ## Project Overview
-This project involved analyzing the sales data from the Hafsat Signature Ventures ecommerce website using Python. The goal was to provide insights and recommendations that could help Hafsat Signature Ventures optimize their sales performance.. The following steps were taken:
+This project involved analyzing the sales data from the Hafsat Signature Ventures ecommerce website using Python. The goal was to provide insights and recommendations that could help Hafsat Signature Ventures optimize their sales performance. The following steps were taken:
 
 Data collection: The data was collected by manually downloading CSV reports from the website’s backend. These reports included useful data such as product sales, customer information, and purchase dates.
 
